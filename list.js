@@ -13,7 +13,7 @@ export const list = [
   },
   {
     id: 3,
-    name: "我他妈直接忽略",
+    name: "忽略",
     num: 36914,
     img:'https://cdn.jsdelivr.net/gh/iyear/blogpics@master/usr/uploads/sina/5cc1377463798.jpg'
   },
