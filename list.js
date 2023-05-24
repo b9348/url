@@ -27,6 +27,24 @@ export const list = [
     id: 5,
     name: "我的发",
     num: 806910,
-    img:'https://link.jscdn.cn/googledrive/direct/aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL2ZpbGUvZC8xU24yWHAtdmIxdi10U3JiOVI1WGRWeldUNXJuTzdNeHYvdmlldz91c3A9c2hhcmluZw.jpg'
+    img:'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBczVoZ0w4dTlPMzFpQlBGdl8wT2UwMHM3T1plP2U9dmNhZnF4.jpg'
+  },
+  {
+    id: 6,
+    name: "我的发",
+    num: 806910,
+    img:'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBczVoZ0w4dTlPMzFpQlBGdl8wT2UwMHM3T1plP2U9dmNhZnF4.jpg'
+  },
+  {
+    id: 7,
+    name: "我的发",
+    num: 806910,
+    img:'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBczVoZ0w4dTlPMzFpQlBGdl8wT2UwMHM3T1plP2U9dmNhZnF4.jpg'
+  },
+  {
+    id: 8,
+    name: "我的发",
+    num: 806910,
+    img:'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBczVoZ0w4dTlPMzFpQlBGdl8wT2UwMHM3T1plP2U9dmNhZnF4.jpg'
   },
 ];
