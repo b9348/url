@@ -1,7 +1,7 @@
 export const list = [
   {
     id: 1,
-    name: "嗨嗨嗨",
+    name: "嗨嗨e嗨",
     num: 7453,
     img:'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBczVoZ0w4dTlPMzFoMHE0MDJONkVjanVCbnl1P2U9MnptVFcz.jpg'
   },
