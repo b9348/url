@@ -15,7 +15,7 @@ export const list = [
     id: 3,
     name: "我他妈直接忽略",
     num: 36914,
-    img:'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBczVoZ0w4dTlPMzFpQktLMWN5WVdPR00yejVVP2U9M0JzMWNE.jpg'
+    img:'https://cdn.jsdelivr.net/gh/iyear/blogpics@master/usr/uploads/sina/5cc1377463798.jpg'
   },
   {
     id: 4,
