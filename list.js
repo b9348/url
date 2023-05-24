@@ -25,7 +25,7 @@ export const list = [
   },
   {
     id: 5,
-    name: "我的发",
+    name: "diwuci第五次",
     num: 806910,
     img:'https://link.jscdn.cn/1drv/aHR0cHM6Ly8xZHJ2Lm1zL2kvcyFBczVoZ0w4dTlPMzFpQlBGdl8wT2UwMHM3T1plP2U9dmNhZnF4.jpg'
   },
